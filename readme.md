@@ -5,7 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## About
 
-A tool that uses different techniques to allow people to memorize verses of the bible in multiple languages.
+A tool that uses different techniques to allow people to memorize verses of the bible in multiple languages. Lets the user type a verse to see how close it is to the original.
 
 ## Development server
 
